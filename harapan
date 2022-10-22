@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>Harapan</title>
+</head>
+<body style="background-color: rgb(153, 170, 187); padding: 18px;">
+
+
+    <div>
+        <p style="font-family: "Lucida Console", Monaco, monospace; font-size: 18px; letter-spacing: 0.2px; word-spacing: -1.2px; color: #000000; font-weight: 700; font-style: normal; font-variant: small-caps;">👱 hai my friend... <br> kenalin aku Femas Anugra sering dipanggil FEM harapanku kedepannya ingin menjadi FRONTEND DEVELOPER😹</p>
+    </div>
+    
+</body>
+</html>
